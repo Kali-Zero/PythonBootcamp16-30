@@ -58,6 +58,9 @@ while is_race_on:
             else:
                 print(f"You Lose. The {winning_color} turtle is the winner!")
         random_distance = random.randint(0,10)
+        #Just for a little extra color
+        turtle.pendown()
+        turtle.pensize(5)
         turtle.forward(random_distance)
 
 screen.exitonclick()
