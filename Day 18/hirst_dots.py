@@ -1,7 +1,7 @@
 import random
 from turtle import Turtle, Screen, colormode, color
 #import colorgram
-
+#https://pypi.org/project/colorgram.py/
 #The color extractor!====================================================
 # rgb_colors = []
 # colors = colorgram.extract('hirstLike.jpg', 30)
