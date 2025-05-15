@@ -4,15 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7755f5b6-3d67-459e-9afd-15df2d0f3814" name="Changes" comment="Day 20 complete!">
-      <change afterPath="$PROJECT_DIR$/Day 20 - Snake/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 20 - Snake/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 20 - Snake/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 21/class_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 21/slicing.py" afterDir="false" />
+    <list default="true" id="7755f5b6-3d67-459e-9afd-15df2d0f3814" name="Changes" comment="Day 21 complete!">
+      <change afterPath="$PROJECT_DIR$/Day 22 - Pong/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 22 - Pong/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 22 - Pong/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 22 - Pong/scorekeeper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 20/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 20/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20 - Snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/_day16_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16 - Coffee Machine/_day16_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16 - Coffee Machine/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16 - Coffee Machine/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16 - Coffee Machine/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16 - Coffee Machine/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quiz Game/data/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17 - Quiz Game/Quiz Game/data/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quiz Game/data/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17 - Quiz Game/Quiz Game/data/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quiz Game/data/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17 - Quiz Game/Quiz Game/data/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quiz Game/data/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17 - Quiz Game/Quiz Game/data/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17 - Quiz Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/hirstLike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Day 18 - Hirst Dots/hirstLike.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/hirst_dots.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 18 - Hirst Dots/hirst_dots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 18 - Hirst Dots/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 19 - Etch-A-Sketch/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/class_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21 - Inheritance &amp; Slicing/class_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21 - Inheritance &amp; Slicing/slicing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +94,7 @@
       <recent name="C:\Users\Kali\PycharmProjects\PythonBootcamp16-100\Day 18" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="class_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBootcamp16-100" />
       <option name="ENV_FILES" value="" />
@@ -128,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBootcamp16-100" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 22 - Pong" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 19/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 22 - Pong/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,19 +235,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.slicing" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.class_inheritance" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -257,7 +270,8 @@
     <MESSAGE value="Day 18 complete!" />
     <MESSAGE value="Day 19 complete!" />
     <MESSAGE value="Day 20 complete!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 20 complete!" />
+    <MESSAGE value="Day 21 complete!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 21 complete!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonBootcamp16_100$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1747261018690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 20 - Snake" />
@@ -268,6 +282,6 @@
     <SUITE FILE_PATH="coverage/PythonBootcamp16_100$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1747196260648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 19" />
     <SUITE FILE_PATH="coverage/PythonBootcamp16_100$class_inheritance.coverage" NAME="class_inheritance Coverage Results" MODIFIED="1747247122844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 21" />
     <SUITE FILE_PATH="coverage/PythonBootcamp16_100$main.coverage" NAME="main Coverage Results" MODIFIED="1747260047694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 20" />
-    <SUITE FILE_PATH="coverage/PythonBootcamp16_100$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1747165395398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17/Quiz Game/data" />
+    <SUITE FILE_PATH="coverage/PythonBootcamp16_100$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1747340716618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 22 - Pong" />
   </component>
 </project>
