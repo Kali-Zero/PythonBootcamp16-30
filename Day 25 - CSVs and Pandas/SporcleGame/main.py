@@ -18,17 +18,23 @@ turtle.shape(image)
 #-------------------------------------------
 state_data = pandas.read_csv("50_states.csv")
 correct_guesses = []
-missed_states = []
 game_is_on = True
 while game_is_on:
     answer_state = screen.textinput(f"Guess A State: {len(correct_guesses)}/50 States Correct",
                                     "What is your guess?").title()
     if answer_state == "Exit":
-        for state in state_data.state:
-            if state not in correct_guesses:
-                missed_states.append(state)
-                new_data = pandas.DataFrame(missed_states)
-                new_data.to_csv("states_to_learn.csv")
+        #List Comprehension Update:----------------------------
+        missed_states = [state for state in state_data.state if state not in correct_guesses]
+        #------------------------------------------------------
+        new_data = pandas.DataFrame(missed_states)
+        new_data.to_csv("states_to_learn.csv")
+
+        # missed_states = []
+        # for state in state_data.state:
+        #     if state not in correct_guesses:
+        #         missed_states.append(state)
+        #         new_data = pandas.DataFrame(missed_states)
+        #         new_data.to_csv("states_to_learn.csv")
         game_is_on = False
 
     for state in state_data.state:
